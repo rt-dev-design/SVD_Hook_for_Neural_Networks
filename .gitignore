@@ -1,0 +1,15 @@
+.vscode/
+checkpoints/
+Dataset/
+Pytorch-Correlation-extension-master/
+result/
+checkpoints.*
+*.zip
+tmp/
+**/__pycache__
+**/tmp*
+experiment_section
+*.out
+*.log
+visualization/
+data/
